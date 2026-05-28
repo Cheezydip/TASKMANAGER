@@ -306,7 +306,7 @@ const Dashboard = () => {
 			<aside className="sidebar">
 				<div className="logo">
 					<div className="logo-mark">⚡</div>
-					<span className="logo-name">TaskFlow</span>
+					<span className="logo-name">TaskManager</span>
 				</div>
 
 				<div className="user-card">
